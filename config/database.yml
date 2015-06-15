@@ -27,3 +27,4 @@ production:
   pool: 5
   username: rails
   password: password
+  host: dbdev.c3xxmmqlp54i.ap-southeast-2.rds.amazonaws.com
